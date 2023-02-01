@@ -14,3 +14,7 @@
   </ul>
   <h2>Usage</h2>
   <p>To run this webpage, open the index.html file via a web browser.</p>
+
+<h3>Note:</h3>
+I originally coded this all at once and uploaded everything to https://github.com/leafyfresh/ISQA3900851.1231_Nathan_Noonan_Activity_2
+When I read your grading metrics for this assignment, I realized you wanted this repository to have multiple commits with clean descriptions, hence this new repository.
